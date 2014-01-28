@@ -8,7 +8,8 @@
 ## There are a few configuration parameters.
  
 LOG_FILE = 'yourlogfile.log'
-HOST, PORT = "0.0.0.0", 514
+HOST, PORT = "0.0.0.0", 515
+#testing on port 515 since we have a real syslog as well.
  
 #
 # NO USER SERVICEABLE PARTS BELOW HERE...
