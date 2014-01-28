@@ -8,6 +8,7 @@ directiony into Bro using the Broccoli API.  Avoid having to tail flat
 log files.
 
 Borrowed heavily from:
+
 https://gist.github.com/marcelom/4218010
 https://github.com/jsiwek/sshd_audit_mux/blob/master/sshd_audit_mux.py  
 
